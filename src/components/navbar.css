@@ -1,0 +1,15 @@
+.app-title{
+    color: white;
+    font-size: 24px;
+    font-weight: 900;
+    letter-spacing: 0.7px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .left-title{
+    float: right;
+    font-size: 24px;
+    font-weight: 900;
+    letter-spacing: 0.7px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
