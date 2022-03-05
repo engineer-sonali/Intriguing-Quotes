@@ -7,7 +7,7 @@ class Navbar extends Component {
     render() { 
         return (
             <nav className="navbar navbar-dark bg-dark">
-                <div className='app-title'> <FaQuoteLeft />  INTRIGUING QUOTES: LEAVE A LONG LASTING IMAPACT</div>  
+                <div className='app-title'> <FaQuoteLeft />  INTRIGUING QUOTES: LEAVE A LONG LASTING IMPACT</div>  
             </nav>
         );
     }
